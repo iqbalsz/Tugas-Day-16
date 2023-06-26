@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
-class tugas_day_15(unittest.TestCase):
+class tugas_day_16(unittest.TestCase):
 
     def setUp(self):
         # selfbrowser = webdriver.Chrome(ChromeDriverManager().install())
